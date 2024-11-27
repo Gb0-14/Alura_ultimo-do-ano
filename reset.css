@@ -120,7 +120,7 @@ blockquote,
 q {
     quotes: none;
 }
-
+/*Css é paia*/
 blockquote:before,
 blockquote:after,
 q:before,
